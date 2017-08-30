@@ -25,8 +25,7 @@ if(x=="1"){xxx="should-be-saved-for-salvation-of.html"}
 if(x=="2"){xxx="clever-skills-to-help-parents-meet.html"}
 if(x=="3"){xxx="six-ways-to-avoid-social-isolation.html"}
 if(x=="4"){xxx="create-list.html"}a_to_ve[i].href="http://safehidden.blogspot.com/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
-var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
-{a_to_vj.innerHTML+=a_to_vb;}
+var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj){a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
